@@ -2,15 +2,17 @@
 > Outline a brief description of your project.
 
 ## Table of Contents
+* [Project Status](#project-status)
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
-* [Project Status](#project-status)
 * [Contact](#contact)
 <!-- * [License](#license) -->
 
+## Project Status
+Project is: _in progress_ / _complete_ / _no longer being worked on_
 
 ## General Information
 
@@ -65,10 +67,6 @@ Provide various use cases and code examples here.
 To run project:
 
 `flutter run -d chrome`
-
-
-## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_
 
 
 ## Contact
