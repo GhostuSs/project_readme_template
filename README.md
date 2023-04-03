@@ -24,7 +24,7 @@
 ### Project Sources
   <!-- if you don't have anything - remove it from your forked readme.md. -->
   Design: [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com)<br />
-  Source Code: [![Github](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com)<br />
+  Source Code: [![Github](https://img.shields.io/badge/github%-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com)<br />
   Analytics Dashboard: ![Amplitude](https://img.shields.io/badge/Amplitude-121013?style=for-the-badge&logo=amplitude&logoColor=white)<br />
   
 ### Available on Platforms: 
