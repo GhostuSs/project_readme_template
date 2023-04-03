@@ -11,7 +11,9 @@ Outline a brief description of your project.
 Example:
 1. Before run this project you must run in terminal:
 
-`flutter packages pub run build_runner build --delete-conflicting-outputs`
+```dart
+flutter packages pub run build_runner build --delete-conflicting-outputs
+```
 
 Congratulations! Your project is ready to use.
 
@@ -23,4 +25,6 @@ Provide various use cases and code examples here.
 
 To run project:
 
-`flutter run -d chrome`
+```dart
+flutter run -d chrome
+```
