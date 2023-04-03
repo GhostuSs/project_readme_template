@@ -1,6 +1,11 @@
 # *Project Name*
 > Outline a brief description of your project.
 
+## Project Status
+
+### Project is: _in progress_ / _complete_ / _no longer being worked on_
+
+
 ## Table of Contents
 * [Project Status](#project-status)
 * [General Info](#general-information)
@@ -10,9 +15,6 @@
 * [Usage](#usage)
 * [Contact](#contact)
 <!-- * [License](#license) -->
-
-## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_
 
 ## General Information
 
